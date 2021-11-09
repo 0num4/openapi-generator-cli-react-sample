@@ -3,6 +3,9 @@
 openapi-generator-cli generate -g typescript-axios -i ./swagger-graphql.yaml -o lib
 /libに吐き出すように
 
+## tips
+reactではsrcより↑を読み込めないらしい
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
