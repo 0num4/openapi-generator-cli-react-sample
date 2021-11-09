@@ -1,3 +1,8 @@
+# nestjs+swagger + openapi-generator-cli + reactサンプル
+
+openapi-generator-cli generate -g typescript-axios -i ./swagger-graphql.yaml -o lib
+/libに吐き出すように
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
